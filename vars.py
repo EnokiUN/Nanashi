@@ -2,7 +2,7 @@ import discord
 import platform
 
 # Developer-Portal Vars
-TOKEN = "ODUzOTM0NzkxMzIwNTM1MDQx.YMcmvw.1xo4MEz_vp5SYg2ZxOWOQIq3exQ"
+TOKEN = "ODUzOTM0NzkxMzIwNTM1MDQx.YMcmvw.oEMIxNZk1tDbEGmDSSUqlo_y6mc"
 CLIENT_SECRET = "U6X20lezLHcfWaiYbgay33bEahU02dtR"
 
 # Custom Vars
